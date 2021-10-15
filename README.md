@@ -1,1 +1,1 @@
-<img src=img/readmegif1.gif width="80"/>
+<img src=img/readmegif1.gif width="420"/>
