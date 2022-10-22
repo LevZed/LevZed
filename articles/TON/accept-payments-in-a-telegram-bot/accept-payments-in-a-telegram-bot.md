@@ -743,6 +743,8 @@ I will create 3 buttons for payment:
 - for TonHub
 - for TonKeeper
 
+The advantage of special buttons for wallets is that if the user does not yet have a wallet, then the site will prompt him to install it
+
 You may use any you want.
 
 And we need button, that user will press after transaction, so we can chek if the payment was successful.
@@ -771,7 +773,7 @@ async def user_wallet(message: types.Message, state: FSMContext):
             keyboard1.add(types.InlineKeyboardButton(
                 text="Tonhub", url=f"https://tonhub.com/transfer/{WALLET}?amount=1000000000&text={air_type}"))
             await message.answer(f"You choose {air_type}")
-            await message.answer(f"Send <code>1</code> toncoin to address \n<code>{WALLET}</code> \nwith comment \n<code>{air_type}</code> \nfrom your wallet ({message.text}) \nton://transfer/{WALLET}?amount=1000000000&text={air_type}", reply_markup=keyboard1)
+            await message.answer(f"Send <code>1</code> toncoin to address \n<code>{WALLET}</code> \nwith comment \n<code>{air_type}</code> \nfrom your wallet ({message.text})", reply_markup=keyboard1)
             await message.answer(f"Click the button after payment", reply_markup=keyboard2)
             await DataInput.PayState.set()
             await state.update_data(wallet=res)
