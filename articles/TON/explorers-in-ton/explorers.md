@@ -30,7 +30,7 @@ Next, we will consider several explorers that can be attributed to each of the c
 
 Good explorer for everyday use.
 
-### Pros 👍
+### Features
 
 - Convenient for everyday use
 - Convenient for developers
@@ -53,7 +53,7 @@ This explorer is more oriented towards developers than ordinary users.
 
 Also, the TonWhales team supports its own network `sandbox`. This is both a plus and a minus. The plus is that you can test your smart contracts in this network, the minus is that all information about transactions in this network is not displayed in other explorers.
 
-### Pros 👍
+### Features
 
 - Convenient for developers
 - Support for its own network `sandbox`
@@ -78,7 +78,7 @@ For example, Trace. This feature allows you to see the entire sequence of transa
 
 Transaction information is not as detailed as, for example, tonwhales.
 
-### Pros 👍
+### Features
 
 - Convenient for developers
 - Convenient for everyday use
@@ -96,13 +96,19 @@ Transaction information is not as detailed as, for example, tonwhales.
 
 ## TON NFT EXPLORER
 
-<!-- :::caution draft
-This is a concept article. We're still looking for someone experienced to improve it.
-::: -->
+This explorer is specialized in NFT, but it can also be used as a regular explorer.
 
-### Pros 👍
+When viewing the wallet address, you can find out which NFT it stores, and when viewing the NFT, you can find out the metadata, collection address, owner, and transaction history.
 
-### Cons 👎
+### Features
+
+- Convenient for everyday use
+- Convenient for developers
+- Specialized in NFT
+
+| base address info                        | nft data                                    |
+| ---------------------------------------- | ------------------------------------------- |
+| ![tonnft](./eit-tonnftexplorer-info.png) | ![tonnft](./eit-tonnftexplorer-nftdata.png) |
 
 ## Want to be in this list?
 
@@ -114,8 +120,6 @@ Right now you could find most of the explorers in the Ton.App directory:
 
 - [https://ton.app/explorers](https://ton.app/explorers)
 
- <!-- # Explorers
- 
 <!-- Explorers list:
 - Tonscan
 - Tonwhales
