@@ -22,13 +22,13 @@ The division into categories is largely conditional, and one explorer can belong
 
 Let's start with the general functionality that is present in all explorers.
 
-Almost all explorers have the ability to find information about the balance, transaction history, and information about the smart contract, if any, deployed on this address by the address in the TON network.
+Almost all explorers have the ability to find information about the balance, transaction history, and information about the smart contract, if any deployed on the address.
 
 Next, we will consider several explorers that can be attributed to each of the categories.
 
 ## TonScan Explorer
 
-Good explorer for everyday use.
+Good explorer for everyday use. It has a convenient interface, a lot of information, and search. The search is performed by public [address book](https://github.com/catchain/tonscan/blob/master/src/addrbook.json) (TON Foundation, OKX and etc.)
 
 ### Features
 
