@@ -32,13 +32,11 @@ Good explorer for everyday use.
 
 ### Features
 
-- Convenient for everyday use
+- **Convenient for everyday use**
 - Convenient for developers
-- Support for some smart contracts (DNS, NFT sale, jetton...)
-
-### Cons 👎
-
-- In the transaction history of jetton, the number of transferred jettons is not displayed
+- TON DNS support
+- Сontract types
+- Contract disassembler
 
 | base address info                  | transaction                       |
 | ---------------------------------- | --------------------------------- |
@@ -55,14 +53,11 @@ Also, the TonWhales team supports its own network `sandbox`. This is both a plus
 
 ### Features
 
-- Convenient for developers
+- **Convenient for developers**
 - Support for its own network `sandbox`
-- Ability to view the contract code directly on the site
-
-### Cons 👎
-
-- No redirection to the wallet by the TON DNS domain
-- In the transaction history of jetton, the number of transferred jettons is not displayed
+- Сontract types
+- **Ability to view code of verified smart contracts**
+- Contract disassembler
 
 | base address info                      | transaction                           |
 | -------------------------------------- | ------------------------------------- |
@@ -83,12 +78,8 @@ Transaction information is not as detailed as, for example, tonwhales.
 - Convenient for developers
 - Convenient for everyday use
 - Jetton transaction history
-- Trace
-- More recognizable interfaces
-
-### Cons 👎
-
-- For detailed transaction information, it refers to the block explorer
+- **Trace**
+- TON DNS support
 
 | base address info                | transaction                     |
 | -------------------------------- | ------------------------------- |
@@ -102,11 +93,11 @@ When viewing the wallet address, you can find out which NFT it stores, and when 
 
 ### Features
 
-- Convenient for everyday use
 - Convenient for developers
-- Specialized in NFT
+- Сontract types
+- **Specialized in NFT**
 
-| base address info                        | nft data                                    |
+| nft address info                         | nft data                                    |
 | ---------------------------------------- | ------------------------------------------- |
 | ![tonnft](./eit-tonnftexplorer-info.png) | ![tonnft](./eit-tonnftexplorer-nftdata.png) |
 
