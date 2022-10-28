@@ -84,6 +84,9 @@ Transaction information is not as detailed as, for example, tonwhales.
 | -------------------------------- | ------------------------------- |
 | ![tonapi](./eit-tonapi-info.png) | ![tonapi](./eit-tonapi-txn.png) |
 
+- URL: https://tonapi.io/
+- Testnet URL: https://testnet.tonapi.io/
+
 ## TON NFT EXPLORER
 
 This explorer is specialized in NFT, but it can also be used as a regular explorer.
@@ -100,6 +103,9 @@ When viewing the wallet address, you can find out which NFT it stores, and when 
 | ---------------------------------------- | ------------------------------------------- |
 | ![tonnft](./eit-tonnftexplorer-info.png) | ![tonnft](./eit-tonnftexplorer-nftdata.png) |
 
+- URL: https://explorer.tonnft.tools/
+- Testnet URL: https://testnet.explorer.tonnft.tools/
+
 ## Want to be in this list?
 
 Please, write to one of the [maintainers](/contribute/maintainers).
@@ -109,11 +115,3 @@ Please, write to one of the [maintainers](/contribute/maintainers).
 Right now you could find most of the explorers in the Ton.App directory:
 
 - [https://ton.app/explorers](https://ton.app/explorers)
-
-<!-- Explorers list:
-- Tonscan
-- Tonwhales
-- TonAPI
-- Nft tools
-- Ton.cx
-- Ton.sh -->
