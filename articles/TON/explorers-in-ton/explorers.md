@@ -56,7 +56,6 @@ Also, the TonWhales team supports its own network `sandbox`. This is both a plus
 - **Convenient for developers**
 - Support for its own network `sandbox`
 - Сontract types
-- **Ability to view code of verified smart contracts**
 - Contract disassembler
 
 | base address info                      | transaction                           |
