@@ -28,7 +28,7 @@ Next, we will consider several explorers that can be attributed to each of the c
 
 ## TonScan Explorer
 
-Good explorer for everyday use. It has a convenient interface, a lot of information, and search. The search is performed by public [address book](https://github.com/catchain/tonscan/blob/master/src/addrbook.json) (TON Foundation, OKX and etc.)
+Good explorer for everyday use. It has a convenient interface, a lot of information, and search. The search is performed by the public [address book](https://github.com/catchain/tonscan/blob/master/src/addrbook.json) (TON Foundation, OKX and etc.)
 
 ### Features
 
@@ -95,7 +95,7 @@ Transaction information is not as detailed as, for example, tonwhales.
 
 ## TON NFT EXPLORER
 
-This explorer is specialized in NFT, but it can also be used as a regular explorer.
+This explorer specializes in NFT, but it can also be used as a regular explorer.
 
 When viewing the wallet address, you can find out which NFT it stores, and when viewing the NFT, you can find out the metadata, collection address, owner, and transaction history.
 
