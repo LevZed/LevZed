@@ -42,6 +42,8 @@ Good explorer for everyday use.
 | ---------------------------------- | --------------------------------- |
 | ![tonscan](./eit-tonscan-info.png) | ![tonscan](./eit-tonscan-txn.png) |
 
+### Links
+
 - URL: https://tonscan.org/
 - Testnet URL: https://testnet.tonscan.org/
 
@@ -61,6 +63,8 @@ Also, the TonWhales team supports its own network `sandbox`. This is both a plus
 | base address info                      | transaction                           |
 | -------------------------------------- | ------------------------------------- |
 | ![tonwhales](./eit-tonwhales-info.png) | ![tonwhales](./eit-tonwhales-txn.png) |
+
+### Links
 
 - URL: https://tonwhales.com/explorer
 - Testnet URL: https://tonsandbox.com/explorer
@@ -84,6 +88,8 @@ Transaction information is not as detailed as, for example, tonwhales.
 | -------------------------------- | ------------------------------- |
 | ![tonapi](./eit-tonapi-info.png) | ![tonapi](./eit-tonapi-txn.png) |
 
+### Links
+
 - URL: https://tonapi.io/
 - Testnet URL: https://testnet.tonapi.io/
 
@@ -102,6 +108,8 @@ When viewing the wallet address, you can find out which NFT it stores, and when 
 | nft address info                         | nft data                                    |
 | ---------------------------------------- | ------------------------------------------- |
 | ![tonnft](./eit-tonnftexplorer-info.png) | ![tonnft](./eit-tonnftexplorer-nftdata.png) |
+
+### Links
 
 - URL: https://explorer.tonnft.tools/
 - Testnet URL: https://testnet.explorer.tonnft.tools/
